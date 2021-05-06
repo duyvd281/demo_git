@@ -1,9 +1,9 @@
 #include <stdio.h>
 main()
 {
-    printf("hello.aa.babe.");
+    printf("hello...");
 
-    
+    int a=0;a++;
     
     
     fflush(stdin);
