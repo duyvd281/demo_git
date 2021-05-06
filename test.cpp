@@ -3,4 +3,8 @@ main()
 {
     printf("hello...");
 
+    
+    
+    
+    fflush(stdin);
 }
