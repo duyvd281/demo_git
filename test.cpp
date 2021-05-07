@@ -7,4 +7,5 @@ main()
     
     
     fflush(stdin);
+    //cuoc song nay qua gian nan
 }
