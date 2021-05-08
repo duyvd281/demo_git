@@ -8,4 +8,6 @@ main()
     
     fflush(stdin);
     //cuoc song nay qua gian nan
+
+    //test lan thu 2
 }
